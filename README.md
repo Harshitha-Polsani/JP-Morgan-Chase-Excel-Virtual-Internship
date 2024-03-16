@@ -1,4 +1,4 @@
-# JP-Morgan-Chase-Excel-Virtual-Internship
+# JP-Morgan-Chase-Excel-Virtual-Experience Program
 This repository contains the tasks completed during the JP Morgan & Chase Excel virtual internship offered through theforage.com. The internship focused on developing advanced Excel skills, including shortcuts, conditional formatting, VBA macros, dashboard creation, and data storytelling.
 
 ## Overview
